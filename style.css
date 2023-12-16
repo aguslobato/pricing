@@ -38,8 +38,14 @@
   -o-transition: 0.1s;
   transition: 0.1s;
 }
+.card-body{
+    min-height: 750px;
+}
 .card-active .card-body{
     border: 2px solid #6A4FFA;
+}
+.card-body{
+    border: 2px solid #C7C7C7;
 }
 .pricing1 .on-hover:hover {
   -ms-transform: scale(1.05);
@@ -81,9 +87,6 @@
 }
 .pricing1 .onoffswitch {
   width: 70px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
   margin: 0 auto;
 }
 .pricing1 .onoffswitch-label {
