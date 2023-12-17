@@ -3,10 +3,10 @@
   font-family: 'Nunito', sans-serif;
 }
 .pricing1 .font-weight-medium {
-  font-weight: 500;
+  font-weight: 600;
 }
 .font-weight-bold{
-    font-weight: 600;
+    font-weight: 700;
 }
 .pricing1 .bg-light {
   background-color: #f4f8fa !important;
@@ -172,11 +172,6 @@
 .pricing1 .badge-inverse {
   background-color: #6A4FFA;
 }
-
-.pricing1 .display-5 {
-    color: #6A4FFA;
-}
-
 .pricing1 .pricing .yearly {
   display: none;
 }
